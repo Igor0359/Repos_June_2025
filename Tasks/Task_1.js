@@ -8,6 +8,9 @@ let OurValue1 = "Hello"
 let OurValue2 = "World"
 let OurValue3 = `${OurValue1} ${OurValue2}`
 console.log(OurValue3)
+//или
+console.log(OurValue1 + ' ' +OurValue2)
+
 
 
 //чи вірно оголошена перевірка типу даних - і якщо ні - то змінити на вірний варіант
