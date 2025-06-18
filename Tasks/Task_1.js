@@ -11,6 +11,12 @@ console.log(OurValue3)
 //или
 console.log(OurValue1 + ' ' +OurValue2)
 
+let text1 = `I'll take the exam tomorrow`
+console.log(text1)
+let text2 = 'I\'\ll take the exam tomorrow'
+console.log(text2)
+
+
 
 
 //чи вірно оголошена перевірка типу даних - і якщо ні - то змінити на вірний варіант
